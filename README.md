@@ -8,3 +8,5 @@ teste repositório
 * uso do comando Git Push
 
 * uso do comando Git Pull
+
+* uso do comando fetch
