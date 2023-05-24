@@ -6,3 +6,5 @@ teste repositório
 * uso do comando git restore
 
 * uso do comando Git Push
+
+* uso do comando Git Pull
